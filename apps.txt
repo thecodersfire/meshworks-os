@@ -1,0 +1,5 @@
+# Purpose-selected Flathub app IDs
+org.blender.Blender
+org.freecadweb.FreeCAD
+org.mozilla.firefox
+com.opera.opera-gx
