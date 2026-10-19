@@ -22,3 +22,20 @@ The installer adds these three Flathub applications for 3D modeling:
 3. **Krita** — org.kde.krita
 
 They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
+
+## Ten more purpose-specific preinstalled applications
+
+The setup installs these ten Flathub apps selected for 3D modeling:
+
+1. **LibreOffice** — create reports and spreadsheets (org.libreoffice.LibreOffice)
+2. **Zotero** — manage research sources and citations (org.zotero.Zotero)
+3. **GNOME Calendar** — schedule sessions, deadlines, and events (org.gnome.Calendar)
+4. **GNOME Clocks** — time work sessions and events (org.gnome.clocks)
+5. **GNOME Contacts** — organize partner and team contacts (org.gnome.Contacts)
+6. **GNOME Papers** — read project and reference PDFs (org.gnome.Papers)
+7. **Document Scanner** — digitize paper notes and forms (org.gnome.SimpleScan)
+8. **Foliate** — read EPUB books (com.github.johnfactotum.Foliate)
+9. **Calibre** — organize ebooks and convert documents (com.calibre_ebook.calibre)
+10. **Anki** — create spaced-repetition study decks (net.ankiweb.Anki)
+
+Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
