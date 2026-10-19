@@ -24,3 +24,9 @@ The `meshworks.svg` wallpaper is original. Meshworks OS is an independent Ubuntu
 
 See [FEATURES.md](FEATURES.md) for three local tools included for 3D modeling.
 
+
+The installer also includes three purpose-specific applications: **LibreOffice, GNOME Calendar, KeePassXC**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GIMP, Inkscape, Krita**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GIMP, Inkscape, Krita**. See [FEATURES.md](FEATURES.md).
